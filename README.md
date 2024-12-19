@@ -8,13 +8,13 @@
 
 [The man from the fog](https://modrinth.com/mod/the-man-from-the-fog-fabric) client and server
 
-[Zombie Tactic](https://modrinth.com/mod/zombie-tactics) server
-
 [zombie awareness](https://modrinth.com/mod/zombie-awareness) client and server
 
 [zombified player](https://modrinth.com/mod/zombified-player) client and server
 
 [dark waters](https://modrinth.com/mod/dark-waters) client and server
+
+[from the fog](https://modrinth.com/datapack/from-the-fog) server
 
 # Structure/generations
 [Philips Ruins](https://modrinth.com/mod/philips-ruins) client and server
@@ -64,7 +64,7 @@
 
 
 # Data pack
-[guns ++](https://modrinth.com/datapack/guns++) server 
+[guns ++](https://modrinth.com/datapack/guns++) client and server
 
 [no mob burn](https://modrinth.com/datapack/no-mob-burn) server
 
