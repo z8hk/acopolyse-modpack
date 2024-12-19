@@ -1,4 +1,4 @@
-# some-acopolyse-modpack (Fabirc)
+# some-acopolyse-modpack
 
 
 # Mobs
@@ -29,6 +29,7 @@
 
 [STRAYED FATES: Forsaken](https://modrinth.com/datapack/strayed-fates-forsaken/gallery) server
 
+[the undergarden](https://modrinth.com/mod/the-undergarden) client and server
 
 # Resources
 [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) Client
@@ -63,7 +64,9 @@
 
 
 # Data pack
-[guns ++](https://modrinth.com/datapack/guns++) server side 
+[guns ++](https://modrinth.com/datapack/guns++) server 
+
+[no mob burn](https://modrinth.com/datapack/no-mob-burn) server
 
 # tweaks
 [better climbing](https://modrinth.com/mod/better-climbing) client and server
