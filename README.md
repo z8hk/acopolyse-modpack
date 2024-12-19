@@ -1,4 +1,4 @@
-# some-acopolyse-modpack
+# some-acopolyse-modpack (Fabirc)
 
 
 # Mobs
