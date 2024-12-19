@@ -1,4 +1,4 @@
-# acopolyse-modpack# some-acopolyse-modpack
+# some-acopolyse-modpack
 
 
 # Mobs
@@ -47,6 +47,20 @@
 
 [mod menu](https://modrinth.com/mod/modmenu/) client
 
+[tense ambience](https://modrinth.com/mod/tense-ambience) client
+
+[parallax sounds](https://modrinth.com/resourcepack/parallax-sounds) client
+
+[better zombie models](https://modrinth.com/resourcepack/blues-better-zombies)
+
+[insanity shader](https://modrinth.com/shader/insanity-shader) shader
+
+[spooklementary](https://modrinth.com/shader/spooklementary) shader
+
+[hysteria](https://modrinth.com/shader/hysteria-shaders) shader
+
+[Alacrity](https://modrinth.com/resourcepack/alacrity) resource pack
+
 
 # Data pack
 [guns ++](https://modrinth.com/datapack/guns++) server side 
@@ -64,14 +78,6 @@
 
 # Utility
 [simple voice chat](https://modrinth.com/plugin/simple-voice-chat) client and server
-
-
-# Dependencies
-[Sodium](https://modrinth.com/mod/sodium) client
-
-[cloth config](https://modrinth.com/mod/cloth-config) client and server
-
-[iris shaders](https://modrinth.com/mod/iris) client
 
 
 # optimization mods
@@ -110,3 +116,16 @@
 [fast items](https://modrinth.com/mod/fast-items) client
 
 [fast painting](https://www.curseforge.com/minecraft/mc-mods/fast-paintings) client
+
+
+
+# Dependencies
+[Sodium](https://modrinth.com/mod/sodium) client
+
+[cloth config](https://modrinth.com/mod/cloth-config) client and server
+
+[iris shaders](https://modrinth.com/mod/iris) client
+
+[entity model features](https://modrinth.com/mod/entity-model-features) client
+
+[entity texture features](https://modrinth.com/mod/entitytexturefeatures) client
